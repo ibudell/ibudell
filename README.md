@@ -1,0 +1,4 @@
+- 👋 Hi, I’m iBudai
+- 🌱 I’m a software enginner
+- 👀 Interested in Java and Linux
+- 📫 Contact me: ibudai56@163.com
